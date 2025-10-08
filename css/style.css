@@ -3,10 +3,10 @@ body {
 }
 
 .hero-section {
-    background: linear-gradient(45deg, #212529, #2c3e50);
+    background: #f8f9fa;
     background-size: cover;
     height: 100vh;
-    color: white;
+    color: #212529;
 }
 
 section {
